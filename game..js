@@ -23,7 +23,7 @@ html{
   padding: 0;
   margin: 0;
   overflow: hidden;
-  background-image: url("https://app2.wormateturkiye.com/public/img/n4.jpg");
+  background-image: url("https://serkanoo.github.io/WormateSerkanConnectPro/image_2024-02-04_193533990.png");
   background-repeat: no-repeat;
   background-size: cover;
 }
